@@ -1,0 +1,25 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vs-seti",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.path": "c:\\Users\\Dell\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\19.1.2\\clangd_19.1.2\\bin\\clangd.exe",
+    "workbench.settings.applyToAllProfiles": [
+        "java.import.gradle.java.home"
+    ],
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "java.jdt.ls.java.home": "D:\\Java\\jdk-17\\jdk-17.0.14+7",
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME": "D:\\Java\\jdk-17\\jdk-17.0.14+7",
+        "PATH": "${env:PATH};D:\\Java\\jdk-17\\jdk-17.0.14+7\\bin"
+    },
+    "php.validate.executablePath": ""
+} 
